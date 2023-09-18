@@ -1,0 +1,7 @@
+I:\Ref\Project\Project .Net\By Me\AES128_FileCoding\v2\FileCoding\FileCoding\obj\Debug\FileCoding.csprojAssemblyReference.cache
+I:\Ref\Project\Project .Net\By Me\AES128_FileCoding\v2\FileCoding\FileCoding\obj\Debug\FileCoding.csproj.CoreCompileInputs.cache
+I:\Ref\Project\Project .Net\By Me\AES128_FileCoding\v2\FileCoding\FileCoding\bin\Debug\FileCoding.exe.config
+I:\Ref\Project\Project .Net\By Me\AES128_FileCoding\v2\FileCoding\FileCoding\bin\Debug\FileCoding.exe
+I:\Ref\Project\Project .Net\By Me\AES128_FileCoding\v2\FileCoding\FileCoding\bin\Debug\FileCoding.pdb
+I:\Ref\Project\Project .Net\By Me\AES128_FileCoding\v2\FileCoding\FileCoding\obj\Debug\FileCoding.exe
+I:\Ref\Project\Project .Net\By Me\AES128_FileCoding\v2\FileCoding\FileCoding\obj\Debug\FileCoding.pdb
